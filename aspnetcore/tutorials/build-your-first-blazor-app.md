@@ -148,7 +148,7 @@ Add a new component to the app that implements a simple todo list.
 
 1. Add a *TodoItem.cs* file to the root of the project to hold a class that represents a todo item. Use the following C# code for the `TodoItem` class:
 
-   [!code-cshtml[](build-your-first-blazor-app/samples_snapshot/3.x/TodoItem.cs)]
+   [!code-cs[](build-your-first-blazor-app/samples_snapshot/3.x/TodoItem.cs)]
 
 1. Return to the `Todo` component (*Pages/Todo.razor*):
 
